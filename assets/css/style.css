@@ -34,7 +34,9 @@ h5 {
   font-size: 1.25em;
 }
 
-.subtitulo, h4, h5 {
+.subtitulo,
+h4,
+h5 {
   font-weight: 400;
 }
 
@@ -42,7 +44,8 @@ h5 {
   margin: 1em auto;
 }
 
-.sweet-brown h3, .sweet-brown h5 {
+.sweet-brown h3,
+.sweet-brown h5 {
   margin-bottom: 0.5em;
 }
 
@@ -59,7 +62,7 @@ h5 {
   color: #ffffff;
 }
 
-.oscuro a{
+.oscuro a {
   color: #ffffff;
   text-decoration: none;
 }
@@ -83,7 +86,8 @@ h5 {
   padding: 6.25rem 3.125rem;
 }
 
-section, footer {
+section,
+footer {
   margin-top: 4.5rem;
 }
 
@@ -96,16 +100,18 @@ footer {
   margin: 0 auto;
 }
 
-.charla-speaker, .charla-texto, .evento {
+.charla-speaker,
+.charla-texto,
+.evento {
   display: inline-block;
 }
 
-.charla-speaker{
+.charla-speaker {
   width: 25%;
   vertical-align: middle;
 }
 
-.charla-texto  {
+.charla-texto {
   width: 72.5%;
   vertical-align: middle;
   margin-left: 2.5%;
