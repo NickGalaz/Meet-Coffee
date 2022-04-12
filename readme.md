@@ -15,7 +15,7 @@
 
 ## Programa de Desarrollo de Aplicaciones FullStack JAVASCRIPT
 
-- Módulo 1: Fundamentos Desarrollo Web
+- Módulo 1: Fundamentos del Desarrollo de Páginas Web
 
 - Módulo 2: Programación básica en JavaScript
 
