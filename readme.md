@@ -1,4 +1,4 @@
-# Desafío: Like Me
+# Desafío: Meet & Coffee
 
 ### Módulo 1
 ### Fundamentos del Desarrollo de Páginas Web
@@ -11,7 +11,11 @@
 
 - CSS
 
+- Bootstrap
 
+- Javascript
+
+- Terminal git, GitHub y GitHub Pages
 
 ## Programa de Desarrollo de Aplicaciones FullStack JAVASCRIPT
 
